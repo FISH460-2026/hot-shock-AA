@@ -1,4 +1,4 @@
-## A Quarto Manuscript Template
+## Effects of Temperature Shocks and Dessication on Intertidal Crabs
 
-This is a template repo for generating a manuscript from Quarto that accompanies the tutorial at: [Quarto Manuscripts: RStudio](https://quarto.org/docs/manuscripts/authoring/rstudio.html)
+
 
