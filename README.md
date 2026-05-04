@@ -19,3 +19,5 @@ Resazurin data sheet [here](https://docs.google.com/spreadsheets/d/1Z4A8w9GcZH_k
 ## Protocol here
 [protocol here](https://docs.google.com/document/d/1zHxsOMu5jwcU2WRQDrMDsIUL_vwaRFQ-7GTAa9yR2K8/edit?tab=t.0)  
 
+## Experiment Notes
+[notes](https://docs.google.com/document/d/1FH0aEksAfhcsQE-h71D1Dn1rkvv0dft1wZimaE54kgE/edit?usp=sharing)
