@@ -21,3 +21,6 @@ Resazurin data sheet [here](https://docs.google.com/spreadsheets/d/1Z4A8w9GcZH_k
 
 ## Experiment Notes
 [notes](https://docs.google.com/document/d/1FH0aEksAfhcsQE-h71D1Dn1rkvv0dft1wZimaE54kgE/edit?usp=sharing)
+
+## Group Assignments
+[Mini-paper Outline Doc](https://docs.google.com/document/d/1NKF51o_Evrta8hqr7yAYDwNCssEzkOuaE0YpuqALS-U/edit?usp=sharing)
