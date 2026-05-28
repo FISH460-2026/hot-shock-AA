@@ -24,3 +24,6 @@ Resazurin data sheet [here](https://docs.google.com/spreadsheets/d/1Z4A8w9GcZH_k
 
 ## Group Assignments
 [Mini-paper Outline Doc](https://docs.google.com/document/d/1NKF51o_Evrta8hqr7yAYDwNCssEzkOuaE0YpuqALS-U/edit?usp=sharing)
+
+## Final Presentation!!
+[Hot Shock AA Final Presentation](https://docs.google.com/presentation/d/1cBMklQMYTsnhNGSuRhC0jj2Y0GW9In0_aDr99d7leH0/edit?usp=sharing)
